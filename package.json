@@ -1,0 +1,28 @@
+{
+  "name": "claudecode-statusline",
+  "version": "1.0.0",
+  "description": "Claude Code用のカスタムステータスライン設定をインストールするツール",
+  "bin": {
+    "claudecode-statusline": "./bin/install.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "statusline",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrtk91/claudecode-statusline.git"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
